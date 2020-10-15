@@ -33,6 +33,7 @@ def get_jpeg_files():
     path = os.getcwd()
     jpg_files = [f for f in os.listdir(path) if f.endswith('.jpg')]
     return jpg_files
+print(rotate(image1))
 
 
 compare_list_ndarray()
