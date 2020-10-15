@@ -1,0 +1,1 @@
+Reading, displaying and rotating images with using libraries 
