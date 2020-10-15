@@ -70,3 +70,6 @@ def rotate(im1):
             new_image[j, i] = temp
 
     return new_image
+
+
+print((rotate(image1))
